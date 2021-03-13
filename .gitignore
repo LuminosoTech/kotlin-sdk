@@ -1,0 +1,26 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio generated folders
+captures/
+.externalNativeBuild
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# Misc
+.DS_Store
+docs/
+infer-out/
+*.log
+CMakeFiles
+CMakeCache.txt
+Testing
+*.crash
+.cxx/
+.project

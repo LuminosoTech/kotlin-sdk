@@ -1,0 +1,13 @@
+plugins {
+    id("luminoso-build-plugin")
+}
+
+luminosoBuildOptions {
+    compilesCode = false
+}
+
+apply plugin: "com.android.library"
+
+dependencies {
+    api(project(":luminoso-core"))
+}
