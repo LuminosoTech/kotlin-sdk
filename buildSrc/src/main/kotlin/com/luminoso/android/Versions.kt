@@ -10,7 +10,7 @@ object Versions {
     val minSdkVersion = 14
     val compileSdkVersion = 30
     val java = JavaVersion.VERSION_1_8
-    val kotlin = "1.3.72"
+    val kotlin = "1.4.32"
 
     // plugins
     val androidGradlePlugin = "4.1.2"

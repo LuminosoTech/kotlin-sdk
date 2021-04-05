@@ -91,7 +91,7 @@ class LuminosoBuildPlugin: Plugin<Project> {
     private fun BaseExtension.configureTests() {
         testOptions {
             unitTests {
-                isReturnDefaultValues = true
+//                isReturnDefaultValues = true
             }
         }
     }

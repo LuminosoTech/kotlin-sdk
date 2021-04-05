@@ -1,3 +1,3 @@
-rootProject.name = "java-sdk"
+rootProject.name = "kotlin-sdk"
 
 include(":luminoso-core", ":luminoso-android", ":luminoso-spring")
